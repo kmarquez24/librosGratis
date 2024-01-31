@@ -17,6 +17,7 @@ body {
         grid-template-rows: 1fr;
         grid-column-gap: 0px;
         grid-row-gap: 0px;
+        background-color: red;
 }
 
 .columnaUno {
@@ -53,6 +54,7 @@ body {
     height: 600px;
     padding: 20px;
     font-size: 24px;
+    background-color: blue;
 }
 
 .columnaTres {
@@ -80,6 +82,7 @@ body {
     display: flex;
     align-items: center;
     margin: 30px 20px;
+    background-color: burlywood;
 }
 
 
